@@ -1,0 +1,21 @@
+my_name = "Anthony Smith"
+my_age = 62
+double_age = my_age * 2
+
+result = 3 + 4 # result is 7
+result = 10 -3 # result is 7
+result = 4 * 5 # result is 20
+result = 8 / 2 # result is 4
+result = 3 ** 2 # result is 9
+5 == 5 # true
+5 != 4 = True
+5 > 4 # True
+4 > 5 # True
+a = 5, b = 2
+addition = a + b, subtraction = a - b, multiplication = a * b, division = a / b
+a > b = True
+(a > b) and (a % 2 = = 0) #true
+import math
+# Example
+print (math.ceil (42.1))  # Output: 43
+
